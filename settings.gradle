@@ -1,0 +1,4 @@
+rootProject.name = "SteamStats"
+include ':app'
+include ':commons'
+include ':sdk'

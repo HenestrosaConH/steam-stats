@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_top_rated"
+        android:title="@string/item_top_rated"
+        android:icon="@drawable/ic_top_rated" />
+
+    <item
+        android:id="@+id/action_most_owned"
+        android:title="@string/item_most_owned"
+        android:icon="@drawable/ic_most_owned" />
+
+    <item
+        android:id="@+id/action_deals"
+        android:title="@string/item_deals"
+        android:icon="@drawable/ic_deals" />
+</menu>

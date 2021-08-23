@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SteamStats</string>
+    <string name="item_top_rated">Top rated</string>
+    <string name="item_most_owned">Most owned</string>
+    <string name="item_deals">Deals</string>
+    <string name="label_ratings">Ratings</string>
+    <string name="label_deal_price">Deal Price</string>
+    <string name="label_original">Original</string>
+    <string name="error_request">An error occurred while loading the info</string>
+    <string name="snackbar_retry">Retry</string>
+</resources>
